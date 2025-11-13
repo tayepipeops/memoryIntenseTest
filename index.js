@@ -36,9 +36,3 @@ setInterval(() => {
     ).toFixed(2)} MB`
   );
 }, 2000);
-// const express = require("express");
-// const app = express();
-// const PORT = 3000;
-
-// app.get("/", (_, res) => res.send("Memory Hog Running!"));
-// app.listen(PORT, () => console.log(`Server on port ${PORT}`));
