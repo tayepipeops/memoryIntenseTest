@@ -2,9 +2,10 @@
   "name": "memoryintenseproject",
   "version": "1.0.0",
   "description": "A project to test the memory intensity of a computer",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node server.js",
+    "hog": "node index.js"
   },
   "author": "",
   "license": "ISC",
